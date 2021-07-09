@@ -4,6 +4,7 @@ import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
 import java.util.LinkedList;
+import java.util.Objects;
 import java.util.Queue;
 import java.util.concurrent.atomic.AtomicBoolean;
 import java.util.concurrent.locks.Condition;
@@ -113,5 +114,44 @@ public class Ferry {
         } finally {
             locker.unlock();
         }
+    }
+
+    @Override
+    public boolean equals(Object obj) {
+        if (this == obj) {
+            return true;
+        }
+        if (obj == null || getClass() != obj.getClass()) {
+            return false;
+        }
+        Ferry ferry = (Ferry) obj;
+        return currentWeight == ferry.currentWeight
+                && currentArea == ferry.currentArea
+                && carQueue.equals(ferry.carQueue)
+                && carQueue2.equals(ferry.carQueue2);
+    }
+
+    @Override
+    public int hashCode() {
+        int prime = 31;
+        int result = 1;
+
+        result = result * prime + Integer.hashCode(currentWeight);
+        result = result * prime + Integer.hashCode(currentArea);
+        result = result * prime + carQueue.hashCode();
+        result = result * prime + carQueue2.hashCode();
+
+        return result;
+    }
+
+    @Override
+    public String toString() {
+        StringBuffer stringBuffer = new StringBuffer();
+        stringBuffer.append("Ferry: (MAX_WEIGHT = ")
+                .append(MAX_WEIGHT)
+                .append(", MAX_AREA = ")
+                .append(MAX_AREA)
+                .append(")");
+        return stringBuffer.toString();
     }
 }
