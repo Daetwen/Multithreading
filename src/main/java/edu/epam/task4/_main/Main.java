@@ -26,6 +26,7 @@ public class Main {
             characteristics = multithreadingFileReader.readCharacteristicsOfCars(FILE_PATH);
             characteristicsForWork = carParser.parseListToCharacteristicsArrays(characteristics);
             List<Cars> carsList = CarCreator.createCars(characteristicsForWork);
+            carsList.forEach(logger::info);
 
             ExecutorService executorService = Executors.newFixedThreadPool(carsList.size());
             carsList.forEach(executorService::submit);

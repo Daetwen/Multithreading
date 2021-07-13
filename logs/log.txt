@@ -2690,3 +2690,197 @@
 21-07-08 20:53.942 [pool-2-thread-12] INFO  edu.epam.task4.entity.Ferry - Car: (id = 12) [ weight = 3, area = 5, state - DELIVERED], Current weight = 0, Current area = 0
 21-07-08 20:53.942 [pool-2-thread-13] INFO  edu.epam.task4.entity.Ferry - Car: (id = 13) [ weight = 4, area = 7, state - TRANSPORTED], Current weight = 4, Current area = 7
 21-07-08 20:53.703 [pool-2-thread-13] INFO  edu.epam.task4.entity.Ferry - Car: (id = 13) [ weight = 4, area = 7, state - DELIVERED], Current weight = 0, Current area = 0
+21-07-09 00:23.385 [main] INFO  edu.epam.task4.reader.MultithreadingFileReader - Information read successfully.
+21-07-09 00:23.411 [pool-2-thread-1] INFO  edu.epam.task4.entity.Ferry - Car: (id = 1) [ weight = 1, area = 2, state - TRANSPORTED], Current weight = 1, Current area = 2
+21-07-09 00:23.413 [pool-2-thread-5] INFO  edu.epam.task4.entity.Ferry - Car: (id = 5) [ weight = 7, area = 10, state - TRANSPORTED], Current weight = 8, Current area = 12
+21-07-09 00:23.413 [pool-2-thread-2] INFO  edu.epam.task4.entity.Ferry - Car: (id = 2) [ weight = 2, area = 5, state - TRANSPORTED], Current weight = 10, Current area = 17
+21-07-09 00:23.414 [pool-2-thread-3] INFO  edu.epam.task4.entity.Ferry - Car: (id = 3) [ weight = 1, area = 4, state - TRANSPORTED], Current weight = 11, Current area = 21
+21-07-09 00:23.415 [pool-2-thread-4] INFO  edu.epam.task4.entity.Ferry - Car: (id = 4) [ weight = 4, area = 7, state - TRANSPORTED], Current weight = 15, Current area = 28
+21-07-09 00:23.416 [pool-2-thread-6] INFO  edu.epam.task4.entity.Ferry - Car: (id = 6) [ weight = 3, area = 6, state - TRANSPORTED], Current weight = 18, Current area = 34
+21-07-09 00:23.417 [pool-2-thread-8] INFO  edu.epam.task4.entity.Ferry - Car: (id = 8) [ weight = 7, area = 9, state - NEW] was added in the queue
+21-07-09 00:23.418 [pool-2-thread-9] INFO  edu.epam.task4.entity.Ferry - Car: (id = 9) [ weight = 7, area = 10, state - NEW] was added in the queue
+21-07-09 00:23.419 [pool-2-thread-7] INFO  edu.epam.task4.entity.Ferry - Car: (id = 7) [ weight = 4, area = 6, state - NEW] was added in the queue
+21-07-09 00:23.420 [pool-2-thread-10] INFO  edu.epam.task4.entity.Ferry - Car: (id = 10) [ weight = 12, area = 15, state - NEW] was added in the queue
+21-07-09 00:23.421 [pool-2-thread-11] INFO  edu.epam.task4.entity.Ferry - Car: (id = 11) [ weight = 2, area = 4, state - TRANSPORTED], Current weight = 20, Current area = 38
+21-07-09 00:23.422 [pool-2-thread-13] INFO  edu.epam.task4.entity.Ferry - Car: (id = 13) [ weight = 4, area = 7, state - NEW] was added in the queue
+21-07-09 00:23.423 [pool-2-thread-12] INFO  edu.epam.task4.entity.Ferry - Car: (id = 12) [ weight = 3, area = 5, state - NEW] was added in the queue
+21-07-09 00:23.166 [pool-2-thread-2] INFO  edu.epam.task4.entity.Ferry - Car: (id = 2) [ weight = 2, area = 5, state - DELIVERED], Current weight = 18, Current area = 33
+21-07-09 00:23.167 [pool-2-thread-1] INFO  edu.epam.task4.entity.Ferry - Car: (id = 1) [ weight = 1, area = 2, state - DELIVERED], Current weight = 17, Current area = 31
+21-07-09 00:23.168 [pool-2-thread-5] INFO  edu.epam.task4.entity.Ferry - Car: (id = 5) [ weight = 7, area = 10, state - DELIVERED], Current weight = 10, Current area = 21
+21-07-09 00:23.169 [pool-2-thread-3] INFO  edu.epam.task4.entity.Ferry - Car: (id = 3) [ weight = 1, area = 4, state - DELIVERED], Current weight = 9, Current area = 17
+21-07-09 00:23.170 [pool-2-thread-4] INFO  edu.epam.task4.entity.Ferry - Car: (id = 4) [ weight = 4, area = 7, state - DELIVERED], Current weight = 5, Current area = 10
+21-07-09 00:23.171 [pool-2-thread-6] INFO  edu.epam.task4.entity.Ferry - Car: (id = 6) [ weight = 3, area = 6, state - DELIVERED], Current weight = 2, Current area = 4
+21-07-09 00:23.173 [pool-2-thread-11] INFO  edu.epam.task4.entity.Ferry - Car: (id = 11) [ weight = 2, area = 4, state - DELIVERED], Current weight = 0, Current area = 0
+21-07-09 00:23.174 [pool-2-thread-8] INFO  edu.epam.task4.entity.Ferry - Car: (id = 8) [ weight = 7, area = 9, state - TRANSPORTED], Current weight = 7, Current area = 9
+21-07-09 00:23.174 [pool-2-thread-9] INFO  edu.epam.task4.entity.Ferry - Car: (id = 9) [ weight = 7, area = 10, state - TRANSPORTED], Current weight = 14, Current area = 19
+21-07-09 00:23.175 [pool-2-thread-7] INFO  edu.epam.task4.entity.Ferry - Car: (id = 7) [ weight = 4, area = 6, state - TRANSPORTED], Current weight = 18, Current area = 25
+21-07-09 00:23.924 [pool-2-thread-8] INFO  edu.epam.task4.entity.Ferry - Car: (id = 8) [ weight = 7, area = 9, state - DELIVERED], Current weight = 11, Current area = 16
+21-07-09 00:23.925 [pool-2-thread-9] INFO  edu.epam.task4.entity.Ferry - Car: (id = 9) [ weight = 7, area = 10, state - DELIVERED], Current weight = 4, Current area = 6
+21-07-09 00:23.927 [pool-2-thread-7] INFO  edu.epam.task4.entity.Ferry - Car: (id = 7) [ weight = 4, area = 6, state - DELIVERED], Current weight = 0, Current area = 0
+21-07-09 00:23.928 [pool-2-thread-10] INFO  edu.epam.task4.entity.Ferry - Car: (id = 10) [ weight = 12, area = 15, state - TRANSPORTED], Current weight = 12, Current area = 15
+21-07-09 00:23.929 [pool-2-thread-13] INFO  edu.epam.task4.entity.Ferry - Car: (id = 13) [ weight = 4, area = 7, state - TRANSPORTED], Current weight = 16, Current area = 22
+21-07-09 00:23.929 [pool-2-thread-12] INFO  edu.epam.task4.entity.Ferry - Car: (id = 12) [ weight = 3, area = 5, state - TRANSPORTED], Current weight = 19, Current area = 27
+21-07-09 00:23.694 [pool-2-thread-12] INFO  edu.epam.task4.entity.Ferry - Car: (id = 12) [ weight = 3, area = 5, state - DELIVERED], Current weight = 16, Current area = 22
+21-07-09 00:23.694 [pool-2-thread-10] INFO  edu.epam.task4.entity.Ferry - Car: (id = 10) [ weight = 12, area = 15, state - DELIVERED], Current weight = 4, Current area = 7
+21-07-09 00:23.694 [pool-2-thread-13] INFO  edu.epam.task4.entity.Ferry - Car: (id = 13) [ weight = 4, area = 7, state - DELIVERED], Current weight = 0, Current area = 0
+21-07-13 23:36.158 [main] INFO  edu.epam.task4.reader.MultithreadingFileReader - Information read successfully.
+21-07-13 23:36.234 [pool-2-thread-5] INFO  edu.epam.task4.entity.Ferry - Car: (id = 5) [ weight = 7, area = 10, state - TRANSPORTED], Current weight = 7, Current area = 10
+21-07-13 23:36.234 [pool-2-thread-9] INFO  edu.epam.task4.entity.Ferry - Car: (id = 9) [ weight = 7, area = 10, state - TRANSPORTED], Current weight = 14, Current area = 20
+21-07-13 23:36.234 [pool-2-thread-4] INFO  edu.epam.task4.entity.Ferry - Car: (id = 4) [ weight = 4, area = 7, state - TRANSPORTED], Current weight = 18, Current area = 27
+21-07-13 23:36.234 [pool-2-thread-3] INFO  edu.epam.task4.entity.Ferry - Car: (id = 3) [ weight = 1, area = 4, state - TRANSPORTED], Current weight = 19, Current area = 31
+21-07-13 23:36.234 [pool-2-thread-1] INFO  edu.epam.task4.entity.Ferry - Car: (id = 1) [ weight = 1, area = 2, state - TRANSPORTED], Current weight = 20, Current area = 33
+21-07-13 23:36.234 [pool-2-thread-7] INFO  edu.epam.task4.entity.Ferry - Car: (id = 7) [ weight = 4, area = 6, state - NEW] was added in the queue
+21-07-13 23:36.234 [pool-2-thread-10] INFO  edu.epam.task4.entity.Ferry - Car: (id = 10) [ weight = 12, area = 15, state - NEW] was added in the queue
+21-07-13 23:36.234 [pool-2-thread-2] INFO  edu.epam.task4.entity.Ferry - Car: (id = 2) [ weight = 2, area = 5, state - NEW] was added in the queue
+21-07-13 23:36.234 [pool-2-thread-6] INFO  edu.epam.task4.entity.Ferry - Car: (id = 6) [ weight = 3, area = 6, state - NEW] was added in the queue
+21-07-13 23:36.234 [pool-2-thread-8] INFO  edu.epam.task4.entity.Ferry - Car: (id = 8) [ weight = 7, area = 9, state - NEW] was added in the queue
+21-07-13 23:36.234 [pool-2-thread-13] INFO  edu.epam.task4.entity.Ferry - Car: (id = 13) [ weight = 4, area = 7, state - NEW] was added in the queue
+21-07-13 23:36.234 [pool-2-thread-11] INFO  edu.epam.task4.entity.Ferry - Car: (id = 11) [ weight = 2, area = 4, state - NEW] was added in the queue
+21-07-13 23:36.250 [pool-2-thread-12] INFO  edu.epam.task4.entity.Ferry - Car: (id = 12) [ weight = 3, area = 5, state - NEW] was added in the queue
+21-07-13 23:36.992 [pool-2-thread-9] INFO  edu.epam.task4.entity.Ferry - Car: (id = 9) [ weight = 7, area = 10, state - DELIVERED], Current weight = 13, Current area = 23
+21-07-13 23:36.993 [pool-2-thread-5] INFO  edu.epam.task4.entity.Ferry - Car: (id = 5) [ weight = 7, area = 10, state - DELIVERED], Current weight = 6, Current area = 13
+21-07-13 23:36.994 [pool-2-thread-4] INFO  edu.epam.task4.entity.Ferry - Car: (id = 4) [ weight = 4, area = 7, state - DELIVERED], Current weight = 2, Current area = 6
+21-07-13 23:36.994 [pool-2-thread-3] INFO  edu.epam.task4.entity.Ferry - Car: (id = 3) [ weight = 1, area = 4, state - DELIVERED], Current weight = 1, Current area = 2
+21-07-13 23:36.010 [pool-2-thread-1] INFO  edu.epam.task4.entity.Ferry - Car: (id = 1) [ weight = 1, area = 2, state - DELIVERED], Current weight = 0, Current area = 0
+21-07-13 23:36.010 [pool-2-thread-7] INFO  edu.epam.task4.entity.Ferry - Car: (id = 7) [ weight = 4, area = 6, state - TRANSPORTED], Current weight = 4, Current area = 6
+21-07-13 23:36.010 [pool-2-thread-10] INFO  edu.epam.task4.entity.Ferry - Car: (id = 10) [ weight = 12, area = 15, state - TRANSPORTED], Current weight = 16, Current area = 21
+21-07-13 23:36.010 [pool-2-thread-2] INFO  edu.epam.task4.entity.Ferry - Car: (id = 2) [ weight = 2, area = 5, state - TRANSPORTED], Current weight = 18, Current area = 26
+21-07-13 23:36.766 [pool-2-thread-2] INFO  edu.epam.task4.entity.Ferry - Car: (id = 2) [ weight = 2, area = 5, state - DELIVERED], Current weight = 16, Current area = 21
+21-07-13 23:36.766 [pool-2-thread-7] INFO  edu.epam.task4.entity.Ferry - Car: (id = 7) [ weight = 4, area = 6, state - DELIVERED], Current weight = 12, Current area = 15
+21-07-13 23:36.766 [pool-2-thread-10] INFO  edu.epam.task4.entity.Ferry - Car: (id = 10) [ weight = 12, area = 15, state - DELIVERED], Current weight = 0, Current area = 0
+21-07-13 23:36.766 [pool-2-thread-6] INFO  edu.epam.task4.entity.Ferry - Car: (id = 6) [ weight = 3, area = 6, state - TRANSPORTED], Current weight = 3, Current area = 6
+21-07-13 23:36.766 [pool-2-thread-8] INFO  edu.epam.task4.entity.Ferry - Car: (id = 8) [ weight = 7, area = 9, state - TRANSPORTED], Current weight = 10, Current area = 15
+21-07-13 23:36.766 [pool-2-thread-13] INFO  edu.epam.task4.entity.Ferry - Car: (id = 13) [ weight = 4, area = 7, state - TRANSPORTED], Current weight = 14, Current area = 22
+21-07-13 23:36.766 [pool-2-thread-11] INFO  edu.epam.task4.entity.Ferry - Car: (id = 11) [ weight = 2, area = 4, state - TRANSPORTED], Current weight = 16, Current area = 26
+21-07-13 23:36.766 [pool-2-thread-12] INFO  edu.epam.task4.entity.Ferry - Car: (id = 12) [ weight = 3, area = 5, state - TRANSPORTED], Current weight = 19, Current area = 31
+21-07-13 23:37.531 [pool-2-thread-6] INFO  edu.epam.task4.entity.Ferry - Car: (id = 6) [ weight = 3, area = 6, state - DELIVERED], Current weight = 16, Current area = 25
+21-07-13 23:37.531 [pool-2-thread-13] INFO  edu.epam.task4.entity.Ferry - Car: (id = 13) [ weight = 4, area = 7, state - DELIVERED], Current weight = 12, Current area = 18
+21-07-13 23:37.531 [pool-2-thread-12] INFO  edu.epam.task4.entity.Ferry - Car: (id = 12) [ weight = 3, area = 5, state - DELIVERED], Current weight = 9, Current area = 13
+21-07-13 23:37.531 [pool-2-thread-8] INFO  edu.epam.task4.entity.Ferry - Car: (id = 8) [ weight = 7, area = 9, state - DELIVERED], Current weight = 2, Current area = 4
+21-07-13 23:37.531 [pool-2-thread-11] INFO  edu.epam.task4.entity.Ferry - Car: (id = 11) [ weight = 2, area = 4, state - DELIVERED], Current weight = 0, Current area = 0
+21-07-13 23:37.059 [main] INFO  edu.epam.task4.reader.MultithreadingFileReader - Information read successfully.
+21-07-13 23:37.094 [pool-2-thread-1] INFO  edu.epam.task4.entity.Ferry - Car: (id = 1) [ weight = 1, area = 2, state - TRANSPORTED], Current weight = 1, Current area = 2
+21-07-13 23:37.095 [pool-2-thread-5] INFO  edu.epam.task4.entity.Ferry - Car: (id = 5) [ weight = 7, area = 10, state - TRANSPORTED], Current weight = 8, Current area = 12
+21-07-13 23:37.096 [pool-2-thread-10] INFO  edu.epam.task4.entity.Ferry - Car: (id = 10) [ weight = 12, area = 15, state - TRANSPORTED], Current weight = 20, Current area = 27
+21-07-13 23:37.097 [pool-2-thread-7] INFO  edu.epam.task4.entity.Ferry - Car: (id = 7) [ weight = 4, area = 6, state - EXPECTS] was added in the queue
+21-07-13 23:37.099 [pool-2-thread-8] INFO  edu.epam.task4.entity.Ferry - Car: (id = 8) [ weight = 7, area = 9, state - EXPECTS] was added in the queue
+21-07-13 23:37.099 [pool-2-thread-2] INFO  edu.epam.task4.entity.Ferry - Car: (id = 2) [ weight = 2, area = 5, state - EXPECTS] was added in the queue
+21-07-13 23:37.100 [pool-2-thread-3] INFO  edu.epam.task4.entity.Ferry - Car: (id = 3) [ weight = 1, area = 4, state - EXPECTS] was added in the queue
+21-07-13 23:37.101 [pool-2-thread-11] INFO  edu.epam.task4.entity.Ferry - Car: (id = 11) [ weight = 2, area = 4, state - EXPECTS] was added in the queue
+21-07-13 23:37.102 [pool-2-thread-6] INFO  edu.epam.task4.entity.Ferry - Car: (id = 6) [ weight = 3, area = 6, state - EXPECTS] was added in the queue
+21-07-13 23:37.103 [pool-2-thread-9] INFO  edu.epam.task4.entity.Ferry - Car: (id = 9) [ weight = 7, area = 10, state - EXPECTS] was added in the queue
+21-07-13 23:37.103 [pool-2-thread-4] INFO  edu.epam.task4.entity.Ferry - Car: (id = 4) [ weight = 4, area = 7, state - EXPECTS] was added in the queue
+21-07-13 23:37.104 [pool-2-thread-13] INFO  edu.epam.task4.entity.Ferry - Car: (id = 13) [ weight = 4, area = 7, state - EXPECTS] was added in the queue
+21-07-13 23:37.105 [pool-2-thread-12] INFO  edu.epam.task4.entity.Ferry - Car: (id = 12) [ weight = 3, area = 5, state - EXPECTS] was added in the queue
+21-07-13 23:37.847 [pool-2-thread-1] INFO  edu.epam.task4.entity.Ferry - Car: (id = 1) [ weight = 1, area = 2, state - DELIVERED], Current weight = 19, Current area = 25
+21-07-13 23:37.848 [pool-2-thread-5] INFO  edu.epam.task4.entity.Ferry - Car: (id = 5) [ weight = 7, area = 10, state - DELIVERED], Current weight = 12, Current area = 15
+21-07-13 23:37.849 [pool-2-thread-10] INFO  edu.epam.task4.entity.Ferry - Car: (id = 10) [ weight = 12, area = 15, state - DELIVERED], Current weight = 0, Current area = 0
+21-07-13 23:37.851 [pool-2-thread-7] INFO  edu.epam.task4.entity.Ferry - Car: (id = 7) [ weight = 4, area = 6, state - TRANSPORTED], Current weight = 4, Current area = 6
+21-07-13 23:37.852 [pool-2-thread-8] INFO  edu.epam.task4.entity.Ferry - Car: (id = 8) [ weight = 7, area = 9, state - TRANSPORTED], Current weight = 11, Current area = 15
+21-07-13 23:37.853 [pool-2-thread-2] INFO  edu.epam.task4.entity.Ferry - Car: (id = 2) [ weight = 2, area = 5, state - TRANSPORTED], Current weight = 13, Current area = 20
+21-07-13 23:37.854 [pool-2-thread-3] INFO  edu.epam.task4.entity.Ferry - Car: (id = 3) [ weight = 1, area = 4, state - TRANSPORTED], Current weight = 14, Current area = 24
+21-07-13 23:37.949 [pool-2-thread-11] INFO  edu.epam.task4.entity.Ferry - Car: (id = 11) [ weight = 2, area = 4, state - TRANSPORTED], Current weight = 16, Current area = 28
+21-07-13 23:37.949 [pool-2-thread-6] INFO  edu.epam.task4.entity.Ferry - Car: (id = 6) [ weight = 3, area = 6, state - TRANSPORTED], Current weight = 19, Current area = 34
+21-07-13 23:37.603 [pool-2-thread-7] INFO  edu.epam.task4.entity.Ferry - Car: (id = 7) [ weight = 4, area = 6, state - DELIVERED], Current weight = 15, Current area = 28
+21-07-13 23:37.604 [pool-2-thread-8] INFO  edu.epam.task4.entity.Ferry - Car: (id = 8) [ weight = 7, area = 9, state - DELIVERED], Current weight = 8, Current area = 19
+21-07-13 23:37.605 [pool-2-thread-2] INFO  edu.epam.task4.entity.Ferry - Car: (id = 2) [ weight = 2, area = 5, state - DELIVERED], Current weight = 6, Current area = 14
+21-07-13 23:37.700 [pool-2-thread-3] INFO  edu.epam.task4.entity.Ferry - Car: (id = 3) [ weight = 1, area = 4, state - DELIVERED], Current weight = 5, Current area = 10
+21-07-13 23:37.702 [pool-2-thread-9] INFO  edu.epam.task4.entity.Ferry - Car: (id = 9) [ weight = 7, area = 10, state - DELIVERED], Current weight = -2, Current area = 0
+21-07-13 23:37.703 [pool-2-thread-4] INFO  edu.epam.task4.entity.Ferry - Car: (id = 4) [ weight = 4, area = 7, state - DELIVERED], Current weight = -6, Current area = -7
+21-07-13 23:37.704 [pool-2-thread-6] INFO  edu.epam.task4.entity.Ferry - Car: (id = 6) [ weight = 3, area = 6, state - DELIVERED], Current weight = -9, Current area = -13
+21-07-13 23:37.705 [pool-2-thread-12] INFO  edu.epam.task4.entity.Ferry - Car: (id = 12) [ weight = 3, area = 5, state - DELIVERED], Current weight = -12, Current area = -18
+21-07-13 23:37.705 [pool-2-thread-13] INFO  edu.epam.task4.entity.Ferry - Car: (id = 13) [ weight = 4, area = 7, state - DELIVERED], Current weight = -16, Current area = -25
+21-07-13 23:37.705 [pool-2-thread-11] INFO  edu.epam.task4.entity.Ferry - Car: (id = 11) [ weight = 2, area = 4, state - DELIVERED], Current weight = -18, Current area = -29
+21-07-13 23:38.814 [main] INFO  edu.epam.task4.reader.MultithreadingFileReader - Information read successfully.
+21-07-13 23:38.830 [main] INFO  edu.epam.task4._main.Main - Car: (id = 1) [ weight = 1, area = 2, state - NEW]
+21-07-13 23:38.830 [main] INFO  edu.epam.task4._main.Main - Car: (id = 2) [ weight = 2, area = 5, state - NEW]
+21-07-13 23:38.831 [main] INFO  edu.epam.task4._main.Main - Car: (id = 3) [ weight = 1, area = 4, state - NEW]
+21-07-13 23:38.831 [main] INFO  edu.epam.task4._main.Main - Car: (id = 4) [ weight = 4, area = 7, state - NEW]
+21-07-13 23:38.832 [main] INFO  edu.epam.task4._main.Main - Car: (id = 5) [ weight = 7, area = 10, state - NEW]
+21-07-13 23:38.832 [main] INFO  edu.epam.task4._main.Main - Car: (id = 6) [ weight = 3, area = 6, state - NEW]
+21-07-13 23:38.832 [main] INFO  edu.epam.task4._main.Main - Car: (id = 7) [ weight = 4, area = 6, state - NEW]
+21-07-13 23:38.833 [main] INFO  edu.epam.task4._main.Main - Car: (id = 8) [ weight = 7, area = 9, state - NEW]
+21-07-13 23:38.833 [main] INFO  edu.epam.task4._main.Main - Car: (id = 9) [ weight = 7, area = 10, state - NEW]
+21-07-13 23:38.833 [main] INFO  edu.epam.task4._main.Main - Car: (id = 10) [ weight = 12, area = 15, state - NEW]
+21-07-13 23:38.834 [main] INFO  edu.epam.task4._main.Main - Car: (id = 11) [ weight = 2, area = 4, state - NEW]
+21-07-13 23:38.834 [main] INFO  edu.epam.task4._main.Main - Car: (id = 12) [ weight = 3, area = 5, state - NEW]
+21-07-13 23:38.834 [main] INFO  edu.epam.task4._main.Main - Car: (id = 13) [ weight = 4, area = 7, state - NEW]
+21-07-13 23:38.849 [pool-2-thread-5] INFO  edu.epam.task4.entity.Ferry - Car: (id = 5) [ weight = 7, area = 10, state - TRANSPORTED], Current weight = 7, Current area = 10
+21-07-13 23:38.850 [pool-2-thread-4] INFO  edu.epam.task4.entity.Ferry - Car: (id = 4) [ weight = 4, area = 7, state - TRANSPORTED], Current weight = 11, Current area = 17
+21-07-13 23:38.851 [pool-2-thread-3] INFO  edu.epam.task4.entity.Ferry - Car: (id = 3) [ weight = 1, area = 4, state - TRANSPORTED], Current weight = 12, Current area = 21
+21-07-13 23:38.852 [pool-2-thread-2] INFO  edu.epam.task4.entity.Ferry - Car: (id = 2) [ weight = 2, area = 5, state - TRANSPORTED], Current weight = 14, Current area = 26
+21-07-13 23:38.852 [pool-2-thread-10] INFO  edu.epam.task4.entity.Ferry - Car: (id = 10) [ weight = 12, area = 15, state - EXPECTS] was added in the queue
+21-07-13 23:38.854 [pool-2-thread-8] INFO  edu.epam.task4.entity.Ferry - Car: (id = 8) [ weight = 7, area = 9, state - EXPECTS] was added in the queue
+21-07-13 23:38.855 [pool-2-thread-1] INFO  edu.epam.task4.entity.Ferry - Car: (id = 1) [ weight = 1, area = 2, state - TRANSPORTED], Current weight = 15, Current area = 28
+21-07-13 23:38.855 [pool-2-thread-6] INFO  edu.epam.task4.entity.Ferry - Car: (id = 6) [ weight = 3, area = 6, state - TRANSPORTED], Current weight = 18, Current area = 34
+21-07-13 23:38.856 [pool-2-thread-11] INFO  edu.epam.task4.entity.Ferry - Car: (id = 11) [ weight = 2, area = 4, state - TRANSPORTED], Current weight = 20, Current area = 38
+21-07-13 23:38.857 [pool-2-thread-7] INFO  edu.epam.task4.entity.Ferry - Car: (id = 7) [ weight = 4, area = 6, state - EXPECTS] was added in the queue
+21-07-13 23:38.858 [pool-2-thread-9] INFO  edu.epam.task4.entity.Ferry - Car: (id = 9) [ weight = 7, area = 10, state - EXPECTS] was added in the queue
+21-07-13 23:38.859 [pool-2-thread-12] INFO  edu.epam.task4.entity.Ferry - Car: (id = 12) [ weight = 3, area = 5, state - EXPECTS] was added in the queue
+21-07-13 23:38.860 [pool-2-thread-13] INFO  edu.epam.task4.entity.Ferry - Car: (id = 13) [ weight = 4, area = 7, state - EXPECTS] was added in the queue
+21-07-13 23:38.600 [pool-2-thread-5] INFO  edu.epam.task4.entity.Ferry - Car: (id = 5) [ weight = 7, area = 10, state - DELIVERED], Current weight = 13, Current area = 28
+21-07-13 23:38.601 [pool-2-thread-4] INFO  edu.epam.task4.entity.Ferry - Car: (id = 4) [ weight = 4, area = 7, state - DELIVERED], Current weight = 9, Current area = 21
+21-07-13 23:38.604 [pool-2-thread-2] INFO  edu.epam.task4.entity.Ferry - Car: (id = 2) [ weight = 2, area = 5, state - DELIVERED], Current weight = 7, Current area = 16
+21-07-13 23:38.604 [pool-2-thread-3] INFO  edu.epam.task4.entity.Ferry - Car: (id = 3) [ weight = 1, area = 4, state - DELIVERED], Current weight = 6, Current area = 12
+21-07-13 23:38.606 [pool-2-thread-1] INFO  edu.epam.task4.entity.Ferry - Car: (id = 1) [ weight = 1, area = 2, state - DELIVERED], Current weight = 5, Current area = 10
+21-07-13 23:38.608 [pool-2-thread-6] INFO  edu.epam.task4.entity.Ferry - Car: (id = 6) [ weight = 3, area = 6, state - DELIVERED], Current weight = 2, Current area = 4
+21-07-13 23:38.608 [pool-2-thread-11] INFO  edu.epam.task4.entity.Ferry - Car: (id = 11) [ weight = 2, area = 4, state - DELIVERED], Current weight = 0, Current area = 0
+21-07-13 23:38.609 [pool-2-thread-10] INFO  edu.epam.task4.entity.Ferry - Car: (id = 10) [ weight = 12, area = 15, state - TRANSPORTED], Current weight = 12, Current area = 15
+21-07-13 23:38.609 [pool-2-thread-8] INFO  edu.epam.task4.entity.Ferry - Car: (id = 8) [ weight = 7, area = 9, state - TRANSPORTED], Current weight = 19, Current area = 24
+21-07-13 23:38.361 [pool-2-thread-10] INFO  edu.epam.task4.entity.Ferry - Car: (id = 10) [ weight = 12, area = 15, state - DELIVERED], Current weight = 7, Current area = 9
+21-07-13 23:38.377 [pool-2-thread-8] INFO  edu.epam.task4.entity.Ferry - Car: (id = 8) [ weight = 7, area = 9, state - DELIVERED], Current weight = 0, Current area = 0
+21-07-13 23:38.377 [pool-2-thread-7] INFO  edu.epam.task4.entity.Ferry - Car: (id = 7) [ weight = 4, area = 6, state - TRANSPORTED], Current weight = 4, Current area = 6
+21-07-13 23:38.377 [pool-2-thread-9] INFO  edu.epam.task4.entity.Ferry - Car: (id = 9) [ weight = 7, area = 10, state - TRANSPORTED], Current weight = 11, Current area = 16
+21-07-13 23:38.377 [pool-2-thread-12] INFO  edu.epam.task4.entity.Ferry - Car: (id = 12) [ weight = 3, area = 5, state - TRANSPORTED], Current weight = 14, Current area = 21
+21-07-13 23:38.377 [pool-2-thread-13] INFO  edu.epam.task4.entity.Ferry - Car: (id = 13) [ weight = 4, area = 7, state - TRANSPORTED], Current weight = 18, Current area = 28
+21-07-13 23:39.142 [pool-2-thread-12] INFO  edu.epam.task4.entity.Ferry - Car: (id = 12) [ weight = 3, area = 5, state - DELIVERED], Current weight = 15, Current area = 23
+21-07-13 23:39.142 [pool-2-thread-7] INFO  edu.epam.task4.entity.Ferry - Car: (id = 7) [ weight = 4, area = 6, state - DELIVERED], Current weight = 11, Current area = 17
+21-07-13 23:39.142 [pool-2-thread-13] INFO  edu.epam.task4.entity.Ferry - Car: (id = 13) [ weight = 4, area = 7, state - DELIVERED], Current weight = 7, Current area = 10
+21-07-13 23:39.142 [pool-2-thread-9] INFO  edu.epam.task4.entity.Ferry - Car: (id = 9) [ weight = 7, area = 10, state - DELIVERED], Current weight = 0, Current area = 0
+21-07-13 23:39.759 [main] INFO  edu.epam.task4.reader.MultithreadingFileReader - Information read successfully.
+21-07-13 23:39.775 [main] INFO  edu.epam.task4._main.Main - Car: (id = 1) [ weight = 1, area = 2, state - NEW]
+21-07-13 23:39.775 [main] INFO  edu.epam.task4._main.Main - Car: (id = 2) [ weight = 2, area = 5, state - NEW]
+21-07-13 23:39.775 [main] INFO  edu.epam.task4._main.Main - Car: (id = 3) [ weight = 1, area = 4, state - NEW]
+21-07-13 23:39.775 [main] INFO  edu.epam.task4._main.Main - Car: (id = 4) [ weight = 4, area = 7, state - NEW]
+21-07-13 23:39.775 [main] INFO  edu.epam.task4._main.Main - Car: (id = 5) [ weight = 7, area = 10, state - NEW]
+21-07-13 23:39.775 [main] INFO  edu.epam.task4._main.Main - Car: (id = 6) [ weight = 3, area = 6, state - NEW]
+21-07-13 23:39.775 [main] INFO  edu.epam.task4._main.Main - Car: (id = 7) [ weight = 4, area = 6, state - NEW]
+21-07-13 23:39.775 [main] INFO  edu.epam.task4._main.Main - Car: (id = 8) [ weight = 7, area = 9, state - NEW]
+21-07-13 23:39.775 [main] INFO  edu.epam.task4._main.Main - Car: (id = 9) [ weight = 7, area = 10, state - NEW]
+21-07-13 23:39.775 [main] INFO  edu.epam.task4._main.Main - Car: (id = 10) [ weight = 12, area = 15, state - NEW]
+21-07-13 23:39.775 [main] INFO  edu.epam.task4._main.Main - Car: (id = 11) [ weight = 2, area = 4, state - NEW]
+21-07-13 23:39.775 [main] INFO  edu.epam.task4._main.Main - Car: (id = 12) [ weight = 3, area = 5, state - NEW]
+21-07-13 23:39.775 [main] INFO  edu.epam.task4._main.Main - Car: (id = 13) [ weight = 4, area = 7, state - NEW]
+21-07-13 23:39.789 [pool-2-thread-2] INFO  edu.epam.task4.entity.Ferry - Car: (id = 2) [ weight = 2, area = 5, state - TRANSPORTED], Current weight = 2, Current area = 5
+21-07-13 23:39.789 [pool-2-thread-5] INFO  edu.epam.task4.entity.Ferry - Car: (id = 5) [ weight = 7, area = 10, state - TRANSPORTED], Current weight = 9, Current area = 15
+21-07-13 23:39.789 [pool-2-thread-4] INFO  edu.epam.task4.entity.Ferry - Car: (id = 4) [ weight = 4, area = 7, state - TRANSPORTED], Current weight = 13, Current area = 22
+21-07-13 23:39.789 [pool-2-thread-1] INFO  edu.epam.task4.entity.Ferry - Car: (id = 1) [ weight = 1, area = 2, state - TRANSPORTED], Current weight = 14, Current area = 24
+21-07-13 23:39.789 [pool-2-thread-8] INFO  edu.epam.task4.entity.Ferry - Car: (id = 8) [ weight = 7, area = 9, state - EXPECTS] was added in the queue
+21-07-13 23:39.789 [pool-2-thread-3] INFO  edu.epam.task4.entity.Ferry - Car: (id = 3) [ weight = 1, area = 4, state - TRANSPORTED], Current weight = 15, Current area = 28
+21-07-13 23:39.789 [pool-2-thread-10] INFO  edu.epam.task4.entity.Ferry - Car: (id = 10) [ weight = 12, area = 15, state - EXPECTS] was added in the queue
+21-07-13 23:39.789 [pool-2-thread-7] INFO  edu.epam.task4.entity.Ferry - Car: (id = 7) [ weight = 4, area = 6, state - TRANSPORTED], Current weight = 19, Current area = 34
+21-07-13 23:39.805 [pool-2-thread-6] INFO  edu.epam.task4.entity.Ferry - Car: (id = 6) [ weight = 3, area = 6, state - EXPECTS] was added in the queue
+21-07-13 23:39.805 [pool-2-thread-13] INFO  edu.epam.task4.entity.Ferry - Car: (id = 13) [ weight = 4, area = 7, state - EXPECTS] was added in the queue
+21-07-13 23:39.805 [pool-2-thread-12] INFO  edu.epam.task4.entity.Ferry - Car: (id = 12) [ weight = 3, area = 5, state - EXPECTS] was added in the queue
+21-07-13 23:39.805 [pool-2-thread-11] INFO  edu.epam.task4.entity.Ferry - Car: (id = 11) [ weight = 2, area = 4, state - EXPECTS] was added in the queue
+21-07-13 23:39.805 [pool-2-thread-9] INFO  edu.epam.task4.entity.Ferry - Car: (id = 9) [ weight = 7, area = 10, state - EXPECTS] was added in the queue
+21-07-13 23:40.548 [pool-2-thread-2] INFO  edu.epam.task4.entity.Ferry - Car: (id = 2) [ weight = 2, area = 5, state - DELIVERED], Current weight = 17, Current area = 29
+21-07-13 23:40.550 [pool-2-thread-5] INFO  edu.epam.task4.entity.Ferry - Car: (id = 5) [ weight = 7, area = 10, state - DELIVERED], Current weight = 10, Current area = 19
+21-07-13 23:40.550 [pool-2-thread-4] INFO  edu.epam.task4.entity.Ferry - Car: (id = 4) [ weight = 4, area = 7, state - DELIVERED], Current weight = 6, Current area = 12
+21-07-13 23:40.551 [pool-2-thread-1] INFO  edu.epam.task4.entity.Ferry - Car: (id = 1) [ weight = 1, area = 2, state - DELIVERED], Current weight = 5, Current area = 10
+21-07-13 23:40.554 [pool-2-thread-3] INFO  edu.epam.task4.entity.Ferry - Car: (id = 3) [ weight = 1, area = 4, state - DELIVERED], Current weight = 4, Current area = 6
+21-07-13 23:40.569 [pool-2-thread-7] INFO  edu.epam.task4.entity.Ferry - Car: (id = 7) [ weight = 4, area = 6, state - DELIVERED], Current weight = 0, Current area = 0
+21-07-13 23:40.569 [pool-2-thread-8] INFO  edu.epam.task4.entity.Ferry - Car: (id = 8) [ weight = 7, area = 9, state - TRANSPORTED], Current weight = 7, Current area = 9
+21-07-13 23:40.570 [pool-2-thread-10] INFO  edu.epam.task4.entity.Ferry - Car: (id = 10) [ weight = 12, area = 15, state - TRANSPORTED], Current weight = 19, Current area = 24
+21-07-13 23:40.322 [pool-2-thread-10] INFO  edu.epam.task4.entity.Ferry - Car: (id = 10) [ weight = 12, area = 15, state - DELIVERED], Current weight = 7, Current area = 9
+21-07-13 23:40.322 [pool-2-thread-8] INFO  edu.epam.task4.entity.Ferry - Car: (id = 8) [ weight = 7, area = 9, state - DELIVERED], Current weight = 0, Current area = 0
+21-07-13 23:40.323 [pool-2-thread-6] INFO  edu.epam.task4.entity.Ferry - Car: (id = 6) [ weight = 3, area = 6, state - TRANSPORTED], Current weight = 3, Current area = 6
+21-07-13 23:40.324 [pool-2-thread-13] INFO  edu.epam.task4.entity.Ferry - Car: (id = 13) [ weight = 4, area = 7, state - TRANSPORTED], Current weight = 7, Current area = 13
+21-07-13 23:40.324 [pool-2-thread-12] INFO  edu.epam.task4.entity.Ferry - Car: (id = 12) [ weight = 3, area = 5, state - TRANSPORTED], Current weight = 10, Current area = 18
+21-07-13 23:40.325 [pool-2-thread-11] INFO  edu.epam.task4.entity.Ferry - Car: (id = 11) [ weight = 2, area = 4, state - TRANSPORTED], Current weight = 12, Current area = 22
+21-07-13 23:40.326 [pool-2-thread-9] INFO  edu.epam.task4.entity.Ferry - Car: (id = 9) [ weight = 7, area = 10, state - TRANSPORTED], Current weight = 19, Current area = 32
+21-07-13 23:40.074 [pool-2-thread-6] INFO  edu.epam.task4.entity.Ferry - Car: (id = 6) [ weight = 3, area = 6, state - DELIVERED], Current weight = 16, Current area = 26
+21-07-13 23:40.075 [pool-2-thread-12] INFO  edu.epam.task4.entity.Ferry - Car: (id = 12) [ weight = 3, area = 5, state - DELIVERED], Current weight = 13, Current area = 21
+21-07-13 23:40.076 [pool-2-thread-11] INFO  edu.epam.task4.entity.Ferry - Car: (id = 11) [ weight = 2, area = 4, state - DELIVERED], Current weight = 11, Current area = 17
+21-07-13 23:40.076 [pool-2-thread-13] INFO  edu.epam.task4.entity.Ferry - Car: (id = 13) [ weight = 4, area = 7, state - DELIVERED], Current weight = 7, Current area = 10
+21-07-13 23:40.078 [pool-2-thread-9] INFO  edu.epam.task4.entity.Ferry - Car: (id = 9) [ weight = 7, area = 10, state - DELIVERED], Current weight = 0, Current area = 0

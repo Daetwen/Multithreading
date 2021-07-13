@@ -74,6 +74,7 @@ public class Ferry {
             if (currentArea + car.getArea() > MAX_AREA
                     || currentWeight + car.getWeight() > MAX_WEIGHT) {
                 try {
+                    car.setState(CarState.EXPECTS);
                     logger.info(car + " was added in the queue");
                     Condition condition = locker.newCondition();
                     carQueue.add(condition);
